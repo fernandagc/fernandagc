@@ -16,5 +16,7 @@
   <img align="center" alt="Fer-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+  
+  <img align="right" height="135em" width="135em" src="https://cdn.discordapp.com/attachments/721403229807837196/890320723569180732/giphy.webp"/>
 
   
