@@ -1,6 +1,6 @@
 <img align="right" height="135em" width="135em" src="https://cdn.discordapp.com/attachments/721403229807837196/890320723569180732/giphy.webp"/>
-<h2> Oi! Eu sou a Fer. 😉 </h2> 
-- 🔭 Atualmente trabalhando com front-end. <br>
+<h2> Oi! Eu sou a Fer Guimarães. 😉 </h2> 
+- 🔭 Atualmente trabalhando como desenvolvedora front-end plena; sou completamente apaixonada por tecnologia e educação, busco unir as duas áreas em tudo que me proponho a fazer. <br>
 - 📫 feer dot guimaraes1 at gmail dot com <br>
 - 😄 ela/dela <br><br>
 
