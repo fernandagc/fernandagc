@@ -4,6 +4,7 @@
 - 📫 feer dot guimaraes1 at gmail dot com <br>
 - 😄 ela/dela <br><br>
 
+ps. usei tanto a rede concorrente que quase não tem commit aqui, sorry.
 <div>
   <a href "https://github.com/fernandagc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandagc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
